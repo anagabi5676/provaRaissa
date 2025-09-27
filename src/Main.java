@@ -62,7 +62,7 @@ public class Main {
 
         // Questão 9
         Funcionario f = new Funcionario();
-        f.nome = "Carlos";
+        f.nome = "Thiago";
         f.salario = 2000;
         System.out.println("Bônus do funcionário: R$" + f.calcularBonus());
 
